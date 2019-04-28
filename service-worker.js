@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/being-usk-blog/precache-manifest.1abe9302073d9ed9c0a70d1dd31afa08.js"
+  "/being-usk-blog/precache-manifest.ca80aa4c42b4b7ffea77d06f90ed921f.js"
 );
 
 self.addEventListener('message', (event) => {
